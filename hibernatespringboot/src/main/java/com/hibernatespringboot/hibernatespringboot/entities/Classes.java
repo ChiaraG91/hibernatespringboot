@@ -27,6 +27,9 @@ public class Classes {
         this.description = description;
     }
 
+    public Classes() {
+    }
+
     public Long getId() {
         return id;
     }
